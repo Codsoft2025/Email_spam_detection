@@ -1,6 +1,6 @@
 # 📩 Spam SMS Detection ML Project
 - Deployed link✨ 
-[**Here**](https://spam-sms-detection-ml.streamlit.app/)
+*(Link will be added here after deployment)*
 
 
 ## 📌 Project Objective
